@@ -6,6 +6,7 @@ body{
     display: flex;
     flex-flow: row wrap;
     gap: 18px;
+    justify-content: center;
   }
 
 h1{
